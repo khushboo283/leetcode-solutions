@@ -25,6 +25,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0100-same-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -44,6 +45,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0100-same-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -90,6 +92,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushboo283/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -102,6 +105,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,4 +132,8 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
