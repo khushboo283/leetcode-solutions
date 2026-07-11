@@ -87,6 +87,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushboo283/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushboo283/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -149,4 +150,8 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [3592-inverse-coin-change](https://github.com/khushboo283/leetcode-solutions/tree/master/3592-inverse-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushboo283/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
