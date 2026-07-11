@@ -36,11 +36,13 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -59,6 +61,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +82,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search
 |  |
 | ------- |
