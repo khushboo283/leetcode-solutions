@@ -29,6 +29,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -43,6 +44,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [0100-same-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -55,6 +57,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -78,6 +81,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0099-recover-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -136,6 +140,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Math
 |  |
 | ------- |
