@@ -34,6 +34,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
@@ -59,6 +60,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
@@ -154,6 +156,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0099-recover-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
