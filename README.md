@@ -115,6 +115,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushboo283/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1773-count-items-matching-a-rule](https://github.com/khushboo283/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushboo283/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Function
 |  |
@@ -129,6 +130,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1331-rank-transform-of-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1773-count-items-matching-a-rule](https://github.com/khushboo283/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushboo283/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3592-inverse-coin-change](https://github.com/khushboo283/leetcode-solutions/tree/master/3592-inverse-coin-change) |
 ## Hash Table
