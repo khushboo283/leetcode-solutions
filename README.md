@@ -159,6 +159,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/khushboo283/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +172,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/khushboo283/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search Tree
 |  |
 | ------- |
