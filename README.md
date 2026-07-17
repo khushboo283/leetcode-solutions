@@ -104,6 +104,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/khushboo283/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0633-sum-of-square-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -160,6 +161,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/khushboo283/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/khushboo283/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
