@@ -84,6 +84,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/khushboo283/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushboo283/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushboo283/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushboo283/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/khushboo283/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushboo283/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Function
@@ -234,4 +236,12 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushboo283/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushboo283/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushboo283/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
