@@ -120,6 +120,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushboo283/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushboo283/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/khushboo283/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -172,6 +173,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0069-sqrtx](https://github.com/khushboo283/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/khushboo283/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
@@ -230,6 +232,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushboo283/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
