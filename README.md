@@ -114,6 +114,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0633-sum-of-square-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +143,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/khushboo283/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0741-cherry-pickup](https://github.com/khushboo283/leetcode-solutions/tree/master/0741-cherry-pickup) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -191,10 +193,12 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Sliding Window
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Number Theory
 |  |
@@ -263,4 +267,16 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushboo283/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
