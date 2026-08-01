@@ -153,6 +153,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0118-pascals-triangle](https://github.com/khushboo283/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/khushboo283/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0741-cherry-pickup](https://github.com/khushboo283/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -202,6 +203,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0172-factorial-trailing-zeroes](https://github.com/khushboo283/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -244,6 +246,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [0118-pascals-triangle](https://github.com/khushboo283/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/khushboo283/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [3592-inverse-coin-change](https://github.com/khushboo283/leetcode-solutions/tree/master/3592-inverse-coin-change) |
 ## Two Pointers
@@ -327,4 +330,9 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/khushboo283/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
