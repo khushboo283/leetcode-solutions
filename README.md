@@ -56,6 +56,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0655-print-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,6 +112,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0655-print-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
 |  |
 | ------- |
@@ -354,4 +356,8 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/khushboo283/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
