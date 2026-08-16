@@ -216,6 +216,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -231,6 +232,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0069-sqrtx](https://github.com/khushboo283/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/khushboo283/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -283,6 +285,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [0118-pascals-triangle](https://github.com/khushboo283/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/khushboo283/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/khushboo283/leetcode-solutions/tree/master/0877-stone-game) |
