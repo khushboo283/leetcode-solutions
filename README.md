@@ -190,6 +190,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushboo283/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushboo283/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khushboo283/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -332,6 +333,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0067-add-binary](https://github.com/khushboo283/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushboo283/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
