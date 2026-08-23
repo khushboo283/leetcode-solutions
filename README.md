@@ -58,6 +58,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/khushboo283/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/khushboo283/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/khushboo283/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
@@ -117,6 +118,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khushboo283/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/khushboo283/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/khushboo283/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -415,6 +417,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/khushboo283/leetcode-solutions/tree/master/0207-course-schedule) |
 | [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -436,4 +439,12 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/khushboo283/leetcode-solutions/tree/master/0202-happy-number) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/khushboo283/leetcode-solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/khushboo283/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
