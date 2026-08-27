@@ -62,6 +62,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0210-course-schedule-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/khushboo283/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0733-flood-fill](https://github.com/khushboo283/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -127,6 +128,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/khushboo283/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0655-print-binary-tree) |
@@ -358,6 +360,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushboo283/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/khushboo283/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -431,6 +434,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [0207-course-schedule](https://github.com/khushboo283/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/khushboo283/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
