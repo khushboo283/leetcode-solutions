@@ -66,6 +66,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0733-flood-fill](https://github.com/khushboo283/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/khushboo283/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -133,6 +134,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0617-merge-two-binary-trees](https://github.com/khushboo283/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0733-flood-fill](https://github.com/khushboo283/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
 |  |
@@ -319,6 +321,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0357-count-numbers-with-unique-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/khushboo283/leetcode-solutions/tree/master/0741-cherry-pickup) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/khushboo283/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/khushboo283/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/khushboo283/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -395,6 +398,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
@@ -441,6 +445,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0207-course-schedule](https://github.com/khushboo283/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/khushboo283/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushboo283/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -488,4 +493,8 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushboo283/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
