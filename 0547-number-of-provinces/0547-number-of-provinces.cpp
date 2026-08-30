@@ -10,7 +10,7 @@ public:
         }
     }
     
-    int findCircleNum(vector<vector<int>>& isConnected) {
+    int findCircleNum(vector<vector<int>>& isConnected) { //O(n^2)
         int numOfProvinces=0;
         int n=isConnected.size(); //nxn
 
