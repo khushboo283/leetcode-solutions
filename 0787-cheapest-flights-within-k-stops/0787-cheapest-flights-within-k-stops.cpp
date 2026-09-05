@@ -11,7 +11,7 @@ public:
             graph[u].push_back({v,wt});
         }
 
-        queue<pair<int, pair<int,int>>> q; //node,(cost,stops)
+        queue<pair<int,pair<int,int>>> q; //node,(cost,stops)
         vector<int> dist(n,INT_MAX);
 
         dist[src]=0;
@@ -33,7 +33,7 @@ public:
                     dist[v]=cost+wt;
                     q.push({v,{dist[v],stops+1}});
                 }
-            }
+            }         
         }
         if(dist[dst]==INT_MAX) return -1;
 
