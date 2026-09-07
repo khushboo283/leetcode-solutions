@@ -269,6 +269,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0069-sqrtx](https://github.com/khushboo283/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/khushboo283/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/khushboo283/leetcode-solutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/khushboo283/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/khushboo283/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
