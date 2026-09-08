@@ -292,6 +292,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/khushboo283/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushboo283/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushboo283/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/khushboo283/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
