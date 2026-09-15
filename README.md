@@ -166,6 +166,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0058-length-of-last-word](https://github.com/khushboo283/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/khushboo283/leetcode-solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/khushboo283/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/khushboo283/leetcode-solutions/tree/master/0415-add-strings) |
 | [0572-subtree-of-another-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -342,6 +343,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0118-pascals-triangle](https://github.com/khushboo283/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/khushboo283/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -355,6 +357,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushboo283/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/khushboo283/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/khushboo283/leetcode-solutions/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushboo283/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
