@@ -291,6 +291,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/khushboo283/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushboo283/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/khushboo283/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -319,6 +320,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushboo283/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
@@ -350,6 +352,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0877-stone-game](https://github.com/khushboo283/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/khushboo283/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/khushboo283/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushboo283/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3592-inverse-coin-change](https://github.com/khushboo283/leetcode-solutions/tree/master/3592-inverse-coin-change) |
 ## Two Pointers
 |  |
@@ -540,4 +543,8 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/khushboo283/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushboo283/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
