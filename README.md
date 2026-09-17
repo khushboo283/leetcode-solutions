@@ -155,6 +155,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0029-divide-two-integers](https://github.com/khushboo283/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/khushboo283/leetcode-solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0461-hamming-distance](https://github.com/khushboo283/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/khushboo283/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
