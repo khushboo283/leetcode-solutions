@@ -273,6 +273,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/khushboo283/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/khushboo283/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khushboo283/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/khushboo283/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -450,6 +451,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/khushboo283/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/khushboo283/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
