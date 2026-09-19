@@ -34,6 +34,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0112-path-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/khushboo283/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/khushboo283/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -87,6 +88,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0112-path-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/khushboo283/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/khushboo283/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -122,6 +124,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0112-path-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khushboo283/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khushboo283/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/khushboo283/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -345,6 +348,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/khushboo283/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -550,4 +554,8 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushboo283/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
