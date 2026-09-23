@@ -152,6 +152,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0633-sum-of-square-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khushboo283/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,6 +214,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1406-stone-game-iii](https://github.com/khushboo283/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushboo283/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khushboo283/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1773-count-items-matching-a-rule](https://github.com/khushboo283/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushboo283/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -247,6 +249,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/khushboo283/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khushboo283/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushboo283/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -319,6 +322,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0219-contains-duplicate-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khushboo283/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khushboo283/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushboo283/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khushboo283/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -329,6 +333,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushboo283/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khushboo283/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
