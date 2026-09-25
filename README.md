@@ -272,6 +272,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushboo283/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -282,6 +283,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/khushboo283/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/khushboo283/leetcode-solutions/tree/master/0067-add-binary) |
@@ -466,6 +468,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/khushboo283/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/khushboo283/leetcode-solutions/tree/master/0326-power-of-three) |
