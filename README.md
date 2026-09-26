@@ -159,6 +159,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0029-divide-two-integers](https://github.com/khushboo283/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/khushboo283/leetcode-solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/khushboo283/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/khushboo283/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/khushboo283/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/khushboo283/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -293,6 +294,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0263-ugly-number](https://github.com/khushboo283/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/khushboo283/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/khushboo283/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/khushboo283/leetcode-solutions/tree/master/0415-add-strings) |
@@ -472,6 +474,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0060-permutation-sequence](https://github.com/khushboo283/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/khushboo283/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/khushboo283/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/khushboo283/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
