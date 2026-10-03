@@ -203,6 +203,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/khushboo283/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/khushboo283/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -254,6 +255,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushboo283/leetcode-solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/khushboo283/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo283/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/khushboo283/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/khushboo283/leetcode-solutions/tree/master/0202-happy-number) |
