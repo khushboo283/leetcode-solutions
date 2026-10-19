@@ -344,6 +344,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushboo283/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/khushboo283/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/khushboo283/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
