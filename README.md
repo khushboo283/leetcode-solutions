@@ -208,6 +208,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khushboo283/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/khushboo283/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/khushboo283/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Function
 |  |
 | ------- |
