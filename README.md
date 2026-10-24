@@ -203,6 +203,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushboo283/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/khushboo283/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushboo283/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/khushboo283/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khushboo283/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -352,6 +353,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/khushboo283/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/khushboo283/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/khushboo283/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
