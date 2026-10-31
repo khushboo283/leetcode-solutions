@@ -269,6 +269,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/khushboo283/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3592-inverse-coin-change](https://github.com/khushboo283/leetcode-solutions/tree/master/3592-inverse-coin-change) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/khushboo283/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/khushboo283/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khushboo283/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khushboo283/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -432,6 +433,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushboo283/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3592-inverse-coin-change](https://github.com/khushboo283/leetcode-solutions/tree/master/3592-inverse-coin-change) |
+| [3665-twisted-mirror-path-count](https://github.com/khushboo283/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -494,6 +496,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0741-cherry-pickup](https://github.com/khushboo283/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/khushboo283/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/khushboo283/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
