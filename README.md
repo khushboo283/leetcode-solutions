@@ -234,6 +234,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0349-intersection-of-two-arrays](https://github.com/khushboo283/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/khushboo283/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/khushboo283/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -350,6 +351,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0412-fizz-buzz](https://github.com/khushboo283/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/khushboo283/leetcode-solutions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/khushboo283/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/khushboo283/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -451,6 +453,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/khushboo283/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
