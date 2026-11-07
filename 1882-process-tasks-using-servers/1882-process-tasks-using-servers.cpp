@@ -24,7 +24,6 @@ public:
 
             currTime = max(currTime, (long long)j);
 
-            // Release completed servers
             while (!busyServers.empty() &&
                    get<0>(busyServers.top()) <= currTime) {
 
@@ -34,7 +33,6 @@ public:
                 freeServers.push({w, idx});
             }
 
-            // Wait if all servers are busy
             if (freeServers.empty()) {
                 currTime = get<0>(busyServers.top());
 
@@ -48,7 +46,6 @@ public:
                 }
             }
 
-            // Assign the task
             auto [weight, idx] = freeServers.top();
             freeServers.pop();
 
