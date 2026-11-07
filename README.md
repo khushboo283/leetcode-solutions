@@ -256,6 +256,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khushboo283/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1773-count-items-matching-a-rule](https://github.com/khushboo283/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushboo283/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1882-process-tasks-using-servers](https://github.com/khushboo283/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/khushboo283/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khushboo283/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -544,6 +545,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/khushboo283/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/khushboo283/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushboo283/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Queue
