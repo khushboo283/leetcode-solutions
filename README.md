@@ -73,6 +73,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0733-flood-fill](https://github.com/khushboo283/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/khushboo283/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/khushboo283/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -154,6 +155,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0733-flood-fill](https://github.com/khushboo283/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushboo283/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/khushboo283/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1267-count-servers-that-communicate](https://github.com/khushboo283/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/khushboo283/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search
@@ -246,6 +248,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1248-count-number-of-nice-subarrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/khushboo283/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/khushboo283/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/khushboo283/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/khushboo283/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -503,6 +506,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | ------- |
 | [0200-number-of-islands](https://github.com/khushboo283/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khushboo283/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/khushboo283/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/khushboo283/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushboo283/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
@@ -513,6 +517,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [0741-cherry-pickup](https://github.com/khushboo283/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/khushboo283/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/khushboo283/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/khushboo283/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/khushboo283/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
@@ -559,6 +564,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/khushboo283/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushboo283/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/khushboo283/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
