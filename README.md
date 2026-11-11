@@ -388,6 +388,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushboo283/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushboo283/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/khushboo283/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushboo283/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/khushboo283/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -540,6 +541,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushboo283/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/khushboo283/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khushboo283/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/khushboo283/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
 |  |
 | ------- |
