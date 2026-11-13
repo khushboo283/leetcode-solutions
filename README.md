@@ -123,6 +123,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khushboo283/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khushboo283/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushboo283/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/khushboo283/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/khushboo283/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/khushboo283/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khushboo283/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/khushboo283/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushboo283/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -407,6 +409,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushboo283/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khushboo283/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/khushboo283/leetcode-solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/khushboo283/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushboo283/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -547,10 +550,12 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushboo283/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/khushboo283/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/khushboo283/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -565,6 +570,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khushboo283/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/khushboo283/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Database
 |  |
 | ------- |
@@ -714,6 +720,7 @@ New solutions are added automatically whenever I solve an accepted LeetCode prob
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/khushboo283/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/khushboo283/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
